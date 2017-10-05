@@ -12,3 +12,5 @@ A simple avoid the obstacle game where the player controls a spaceship. Written 
 ### Story
 You're exploring the vast space with your trusty blue spaceship. However, there are white asteroids in your path. Be careful and dodge them. Remember  you're spaceship can only take three hits before breaking down!
 
+### Demo
+![Demo Image](https://i.imgur.com/11IRi5p.png)
